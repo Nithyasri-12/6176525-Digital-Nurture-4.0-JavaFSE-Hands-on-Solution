@@ -1,0 +1,13 @@
+Checking customer: John Doe, Age: 40
+Checking customer: Jane Smith, Age: 34
+Checking customer: James Anderson, Age: 64
+1% discount applied to loans of customer: James Anderson (Age: 64)
+Checking customer: Robert Willson, Age: 55
+
+Customer John Doe is not a VIP (Balance: 1000)
+Customer Jane Smith is not a VIP (Balance: 1500)
+Customer James Anderson is not a VIP (Balance: 1500)
+Customer Robert Willson promoted to VIP (Balance: 12000)
+
+Reminder: Loan ID 2 for customer Jane Smith is due on 13-Jul-2025
+
