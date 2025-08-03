@@ -1,0 +1,44 @@
+.app-container {
+  font-family: system-ui, sans-serif;
+  padding: 30px;
+}
+
+.employee-card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  border-radius: 6px;
+  width: 180px;
+  background: #f9f9f9;
+}
+
+.btn {
+  padding: 6px 12px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.btn.light {
+  background-color: #ffffff;
+  color: #333;
+  box-shadow: 0 0 4px rgba(0,0,0,0.1);
+  border: 1px solid #888;
+}
+
+.btn.dark {
+  background-color: #333;
+  color: #fff;
+  box-shadow: 0 0 6px rgba(0,0,0,0.3);
+  border: 1px solid #555;
+}
+
+.app-container.light {
+  background: #f0f4f8;
+  color: #222;
+}
+
+.app-container.dark {
+  background: #1f1f1f;
+  color: #eee;
+}
